@@ -30,6 +30,24 @@ The workflow includes data cleaning, exploratory data analysis (EDA), and intera
 * Interactive filtering (Age, Smoking Status, Exercise Level)
 
 
+📷 Screenshots
+
+* Power BI dashboard:
+![alt text](<Screenshot 2026-03-27 155140.png>)
+
+
+* Age vs Hypertension Prevalence:
+![alt text](<Screenshot 2026-03-25 141947.png>)
+
+
+* BMI vs Hypertension Prevalence:
+![alt text](<Screenshot 2026-03-25 140922.png>)
+
+
+* Hypertension by Family History:
+![alt text](<Screenshot 2026-03-24 223658.png>)
+
+
 🧠 Key Takeaway
 
 Hypertension risk is strongly influenced by age, genetics, and lifestyle factors, with behavioral variables requiring careful interpretation due to potential confounding effects.

@@ -46,4 +46,4 @@ df.groupby('Family_History')['Has_Hypertension'].mean().plot(kind='bar')
 plt.title('Hypertension Rate by Family History')
 plt.show()
 
-df.to_csv('data/cleaned_hypertension.csv', index=False)
+df.to_csv('data/cleaned_data.csv', index=False)
